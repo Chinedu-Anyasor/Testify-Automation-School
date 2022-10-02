@@ -1,4 +1,3 @@
-
 # TASK 9
 
 # 1. Create a function that prints out "Hello World"
@@ -11,6 +10,7 @@ def greet():
 
 
 greet()
+
 
 # 2.
 def football_club():
