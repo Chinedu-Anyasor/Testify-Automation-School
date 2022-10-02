@@ -1,5 +1,5 @@
 
-name: Github Actions
+name: Github Actions js
 on: [ push ]
 jobs:
   Tests:
